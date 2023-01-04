@@ -1,0 +1,42 @@
+[
+    {
+        "id": 0,
+        "right_answer": "Amazon EC2 instances can be launched on demand when needed."
+    },
+    {
+        "id": 1,
+        "right_answer": "AWS Database Migration Service (AWS DMS)"
+    },
+    {
+        "id": 2,
+        "right_answer": "AWS Marketplace"
+    },
+    {
+        "id": 3,
+        "right_answer": "Amazon Virtual Private Cloud (Amazon VPC)"
+    },
+    {
+        "id": 4,
+        "right_answer": "Maintaining physical hardware"
+    },
+    {
+        "id": 5,
+        "right_answer": "Edge locations"
+    },
+    {
+        "id": 6,
+        "right_answer": "Enable multi-factor authentication"
+    },
+    {
+        "id": 7,
+        "right_answer": "AWS CloudTrail"
+    },
+    {
+        "id": 8,
+        "right_answer": "Amazon Simple Notification Service (Amazon SNS)"
+    },
+    {
+        "id": 9,
+        "right_answer": "AWS Acceptable Use Policy"
+    }
+]
